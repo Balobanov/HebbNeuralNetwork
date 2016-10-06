@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\DENNNN\Desktop\Курсач\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.336,=C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,C:\Users\DENNNN\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Users\DENNNN\Desktop\Курсач\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.h=C:\Users\DENNNN\Desktop\Курсач\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.315,=C:\Users\DENNNN\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,C:\Users\DENNNN\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\DENNNN\Desktop\Курсач\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.567,C:\Users\DENNNN\Desktop\Курсач\Project1.cbproj=C:\Users\DENNNN\Desktop\Курсач\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.337,C:\Users\DENNNN\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\DENNNN\Desktop\Курсач\Project1.cbproj</Transaction>
+    <Transaction>2014.12.25 19:25:43.302,=C:\Users\DENNNN\Desktop\Курсач\Unit2.cpp</Transaction>
+    <Transaction>2014.12.25 19:44:18.014,=C:\Users\DENNNN\Desktop\Курсач\File1.h</Transaction>
+    <Transaction>2014.12.25 19:44:28.153,C:\Users\DENNNN\Desktop\Курсач\variables.h=C:\Users\DENNNN\Desktop\Курсач\File1.h</Transaction>
+    <Transaction>2014.12.25 19:57:18.284,=C:\Users\DENNNN\Desktop\Курсач\Unit3.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

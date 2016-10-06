@@ -1,0 +1,82 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit1H
+#define Unit1H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Vcl.Grids.hpp>
+#include <Vcl.Menus.hpp>
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TStringGrid *StringGrid1;
+	TStringGrid *StringGrid2;
+	TStringGrid *StringGrid3;
+	TStringGrid *StringGrid4;
+	TStringGrid *StringGrid5;
+	TStringGrid *StringGrid6;
+	TStringGrid *StringGrid7;
+	TButton *Button1;
+	TButton *Button2;
+	TStringGrid *StringGrid8;
+	TLabel *Label1;
+	TLabel *Label2;
+	TLabel *Label3;
+	TMainMenu *MainMenu1;
+	TMenuItem *N1;
+	TMenuItem *N2;
+	TMenuItem *N3;
+	TMenuItem *N4;
+	TMenuItem *N5;
+	TMenuItem *N6;
+	TMenuItem *N7;
+	TMenuItem *N8;
+	TMenuItem *N9;
+	TMenuItem *N10;
+	TLabel *Label4;
+	void __fastcall Button1Click(TObject *Sender);
+	void __fastcall StringGrid1DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall StringGrid1SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid2DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+		  TGridDrawState State);
+	void __fastcall StringGrid2SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid3DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall StringGrid3SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid4DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall StringGrid4SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid5DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall StringGrid5SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid6DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall StringGrid6SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid7DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall StringGrid7SelectCell(TObject *Sender, int ACol, int ARow, bool &CanSelect);
+	void __fastcall StringGrid8DrawCell(TObject *Sender, int ACol, int ARow, TRect &Rect,
+          TGridDrawState State);
+	void __fastcall Button2Click(TObject *Sender);
+
+
+
+
+
+
+
+
+private:	// User declarations
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif
